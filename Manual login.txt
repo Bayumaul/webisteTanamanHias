@@ -1,0 +1,7 @@
+login admin 
+username : bayumaul
+pass	 : 12345
+
+login user
+username : bayumaulana
+pass	 : 12345
